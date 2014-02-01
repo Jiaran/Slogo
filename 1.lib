@@ -1,0 +1,7 @@
+
+To test [ arg0 arg1  ] [ fd sum arg0 arg1  ]
+To test [ arg0 arg1  ] [ forward sum arg0 arg1  ]
+make :t 10.0
+make :f 3.0
+make arg1 100.0
+make arg0 100.0

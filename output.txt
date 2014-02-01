@@ -1,0 +1,5 @@
+CommandsWindow,UserCommands,InputAndRun,Try Commands
+CommandsWindow,Variables,EditVariable,Edit Variable
+CommandsHistory,CommandsHistory
+DisplayItems,Colors
+DisplayItems,Images List

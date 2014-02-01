@@ -1,0 +1,6 @@
+Change BackGround Color,ModifyBG
+Change Pen Color,ModifyPen
+Toggle Grid Referrence,ModifyGrid
+Change Image,ChangeImage
+Toggle Turtle Message,ShowTurtleMessage
+Toggle Highlight Active,ToggleHighlight
